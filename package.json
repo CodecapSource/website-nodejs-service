@@ -1,0 +1,24 @@
+{
+  "name": "codecap-nodejs-service",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodecapSource/website-nodejs-service.git"
+  },
+  "author": "Muhammad Waseem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodecapSource/website-nodejs-service/issues"
+  },
+  "homepage": "https://github.com/CodecapSource/website-nodejs-service#readme",
+  "dependencies": {
+    "got": "^11.8.0",
+    "mysql": "^2.18.1",
+    "node-cron": "^2.0.3"
+  }
+}
